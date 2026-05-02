@@ -1,0 +1,252 @@
+[
+  {
+    "name": "UltraLight Trail Running Shoe",
+    "description": "Breathable mesh upper with a cushioned midsole designed for long-distance trail running. Features a lugged rubber outsole for grip on loose terrain and a rock plate to protect against sharp debris.",
+    "metadata": { "category": "Footwear", "price": 129.99, "brand": "PeakStride", "tags": ["running", "trail", "outdoor"] }
+  },
+  {
+    "name": "Stainless Steel French Press (1 L)",
+    "description": "Double-walled stainless steel French press with a fine-mesh plunger filter. Keeps coffee hot for up to two hours and eliminates sediment for a clean, full-flavoured brew.",
+    "metadata": { "category": "Kitchen", "price": 44.99, "brand": "BrewCraft", "tags": ["coffee", "kitchen", "beverages"] }
+  },
+  {
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Over-ear Bluetooth headphones with active noise cancellation, 30-hour battery life, and foldable design. Soft memory-foam ear cushions provide all-day comfort.",
+    "metadata": { "category": "Electronics", "price": 199.99, "brand": "SoundWave", "tags": ["audio", "wireless", "travel"] }
+  },
+  {
+    "name": "Bamboo Cutting Board with Juice Groove",
+    "description": "Extra-large bamboo cutting board with a deep juice groove to catch drips. Naturally antimicrobial surface. Includes rubber feet to prevent slipping.",
+    "metadata": { "category": "Kitchen", "price": 34.99, "brand": "GreenChef", "tags": ["kitchen", "cooking", "eco"] }
+  },
+  {
+    "name": "Adjustable Dumbbell Set (5–52.5 kg)",
+    "description": "Quick-adjust dial mechanism replaces 15 pairs of dumbbells. Sold as a pair with a compact storage tray. Weight increments of 2.5 kg up to 52.5 kg.",
+    "metadata": { "category": "Fitness", "price": 549.00, "brand": "IronFlex", "tags": ["fitness", "weights", "home gym"] }
+  },
+  {
+    "name": "Merino Wool Base Layer (Long Sleeve)",
+    "description": "100% merino wool thermal top that regulates body temperature in cold and warm conditions. Odour-resistant and machine washable. Available in XS to XXL.",
+    "metadata": { "category": "Apparel", "price": 89.99, "brand": "AlpineWool", "tags": ["clothing", "outdoor", "winter"] }
+  },
+  {
+    "name": "Standing Desk Converter (76 cm)",
+    "description": "Sit-stand desk riser with a pneumatic lift arm. Raises and lowers with one hand in under three seconds. Holds up to 18 kg and fits monitors up to 76 cm.",
+    "metadata": { "category": "Office", "price": 249.00, "brand": "RiseDesk", "tags": ["office", "ergonomic", "desk"] }
+  },
+  {
+    "name": "Cast Iron Skillet (26 cm)",
+    "description": "Pre-seasoned cast iron frying pan suitable for use on all hob types including induction. Oven-safe up to 260 °C. Builds a natural non-stick coating with use.",
+    "metadata": { "category": "Kitchen", "price": 39.99, "brand": "IronHearth", "tags": ["cookware", "kitchen", "induction"] }
+  },
+  {
+    "name": "Portable Solar Charger (20 W)",
+    "description": "Foldable 20 W solar panel with dual USB-A and USB-C outputs. Charges a phone in under two hours in direct sunlight. Weather-resistant nylon canvas.",
+    "metadata": { "category": "Electronics", "price": 69.99, "brand": "SolarPulse", "tags": ["solar", "outdoor", "charging"] }
+  },
+  {
+    "name": "Ceramic Pour-Over Coffee Dripper",
+    "description": "Single-cup ceramic dripper with a wide opening and spiral ridges to promote even extraction. Compatible with standard size 2 paper or reusable filters.",
+    "metadata": { "category": "Kitchen", "price": 29.99, "brand": "BrewCraft", "tags": ["coffee", "kitchen", "pour-over"] }
+  },
+  {
+    "name": "Foam Yoga Mat (6 mm)",
+    "description": "Non-slip TPE foam yoga mat, 183 × 61 cm, 6 mm thick. Closed-cell surface repels moisture and bacteria. Includes a carrying strap.",
+    "metadata": { "category": "Fitness", "price": 32.99, "brand": "ZenFlow", "tags": ["yoga", "fitness", "mat"] }
+  },
+  {
+    "name": "Waterproof Hiking Backpack (30 L)",
+    "description": "30-litre daypack with a rain cover, padded hip belt, and hydration bladder sleeve. Multiple external attachment points for trekking poles.",
+    "metadata": { "category": "Outdoor", "price": 84.99, "brand": "TrailHiker", "tags": ["hiking", "backpack", "waterproof"] }
+  },
+  {
+    "name": "Mechanical Keyboard (Tenkeyless, Red Switches)",
+    "description": "Compact TKL mechanical keyboard with Cherry MX Red linear switches. White RGB backlighting, aluminium top plate, and braided USB-C cable.",
+    "metadata": { "category": "Electronics", "price": 119.00, "brand": "KeyForge", "tags": ["keyboard", "gaming", "mechanical"] }
+  },
+  {
+    "name": "Insulated Water Bottle (1 L)",
+    "description": "Double-walled vacuum-insulated stainless steel bottle. Keeps liquids cold for 24 hours or hot for 12 hours. Leak-proof lid. BPA-free.",
+    "metadata": { "category": "Kitchen", "price": 27.99, "brand": "HydroKeep", "tags": ["hydration", "outdoor", "bottle"] }
+  },
+  {
+    "name": "Resistance Band Set (5 Levels)",
+    "description": "Set of five latex resistance bands ranging from 5 to 45 kg equivalent resistance. Includes a carry bag and door anchor. Suitable for strength training and physiotherapy.",
+    "metadata": { "category": "Fitness", "price": 24.99, "brand": "BandFit", "tags": ["fitness", "resistance", "home gym"] }
+  },
+  {
+    "name": "LED Desk Lamp with USB Charging Port",
+    "description": "Dimmable LED desk lamp with five brightness levels and three colour temperatures. Built-in USB-A port for device charging. Flexible gooseneck arm.",
+    "metadata": { "category": "Office", "price": 34.99, "brand": "LumiDesk", "tags": ["lighting", "office", "desk"] }
+  },
+  {
+    "name": "Camping Hammock (2-Person)",
+    "description": "Lightweight parachute nylon hammock rated for 200 kg. Includes two carabiner clips and 3-metre tree straps. Packs into an integrated stuff sack.",
+    "metadata": { "category": "Outdoor", "price": 49.99, "brand": "SkyRest", "tags": ["camping", "hammock", "outdoor"] }
+  },
+  {
+    "name": "Stainless Steel Meal Prep Containers (Set of 5)",
+    "description": "Leak-proof stainless steel containers with airtight locking lids. Dishwasher, freezer, and oven safe. 600 ml, 900 ml, and 1200 ml sizes included.",
+    "metadata": { "category": "Kitchen", "price": 39.99, "brand": "PrepBox", "tags": ["meal prep", "kitchen", "storage"] }
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "description": "Fully adjustable office chair with lumbar support, 3D armrests, breathable mesh back, and seat-depth adjustment. Certified for 8-hour office use.",
+    "metadata": { "category": "Office", "price": 389.00, "brand": "ComfortSeat", "tags": ["office", "ergonomic", "chair"] }
+  },
+  {
+    "name": "Smart Wi-Fi Plug (4-Pack)",
+    "description": "Compact Wi-Fi smart plugs compatible with Alexa and Google Home. Schedule, monitor energy usage, and control remotely via mobile app.",
+    "metadata": { "category": "Electronics", "price": 39.99, "brand": "SmartNest", "tags": ["smart home", "wi-fi", "automation"] }
+  },
+  {
+    "name": "Leather Wallet (Slim Bifold)",
+    "description": "Full-grain leather bifold wallet with RFID-blocking inner lining. Holds up to 8 cards plus cash. Slim 6 mm profile when empty.",
+    "metadata": { "category": "Accessories", "price": 49.99, "brand": "LeatherCo", "tags": ["wallet", "leather", "accessories"] }
+  },
+  {
+    "name": "Stainless Steel Cocktail Shaker (500 ml)",
+    "description": "Three-piece cocktail shaker with built-in strainer and measuring cap. Mirror-polished 18/8 stainless steel. Leak-proof seal.",
+    "metadata": { "category": "Kitchen", "price": 19.99, "brand": "MixMaster", "tags": ["cocktails", "barware", "kitchen"] }
+  },
+  {
+    "name": "Polarised Sunglasses (UV400)",
+    "description": "Lightweight TR90 frame with polarised polycarbonate lenses. UV400 protection filters 100% of UVA and UVB rays. Includes hard case and microfibre cloth.",
+    "metadata": { "category": "Accessories", "price": 54.99, "brand": "ClearVista", "tags": ["sunglasses", "outdoor", "eyewear"] }
+  },
+  {
+    "name": "Cordless Handheld Vacuum Cleaner",
+    "description": "20 V lithium-ion handheld vacuum with a washable HEPA filter and 30-minute runtime. Includes crevice tool, brush attachment, and charging dock.",
+    "metadata": { "category": "Home", "price": 79.99, "brand": "CleanSwift", "tags": ["vacuum", "home", "cordless"] }
+  },
+  {
+    "name": "Wooden Chess Set (40 cm Board)",
+    "description": "Hand-carved weighted wooden chess pieces with a felted base. Folding walnut-and-maple board doubles as a storage box. King height 9 cm.",
+    "metadata": { "category": "Games", "price": 59.99, "brand": "GameCraft", "tags": ["chess", "games", "wooden"] }
+  },
+  {
+    "name": "Cold Brew Coffee Maker (1 L)",
+    "description": "Mason jar-style cold brew maker with a fine-mesh stainless steel filter. Brew 1 litre of concentrate in 12–24 hours in the fridge. Dishwasher safe.",
+    "metadata": { "category": "Kitchen", "price": 24.99, "brand": "BrewCraft", "tags": ["coffee", "cold brew", "kitchen"] }
+  },
+  {
+    "name": "Running Armband Phone Holder",
+    "description": "Adjustable neoprene armband fits phones up to 6.8 inches. Touch-screen compatible window. Reflective strip for low-light visibility.",
+    "metadata": { "category": "Fitness", "price": 14.99, "brand": "PeakStride", "tags": ["running", "accessories", "phone"] }
+  },
+  {
+    "name": "Electric Kettle (1.7 L, Temperature Control)",
+    "description": "Variable temperature electric kettle with five presets (60–100 °C). Keeps water warm for 30 minutes. 360° cordless base. Boils 1.7 L in under 3 minutes.",
+    "metadata": { "category": "Kitchen", "price": 54.99, "brand": "HeatFlow", "tags": ["kettle", "kitchen", "tea"] }
+  },
+  {
+    "name": "Laptop Stand (Adjustable, Aluminium)",
+    "description": "Foldable aluminium laptop stand with six height settings. Fits laptops from 10 to 17 inches. Non-slip silicone pads protect the laptop and desk.",
+    "metadata": { "category": "Office", "price": 29.99, "brand": "RiseDesk", "tags": ["laptop", "office", "ergonomic"] }
+  },
+  {
+    "name": "Garden Kneeler and Seat",
+    "description": "Dual-use garden kneeler that converts into a bench seat. Steel frame with thick foam pad. Folds flat for storage. Includes two side tool pouches.",
+    "metadata": { "category": "Garden", "price": 34.99, "brand": "GreenThumb", "tags": ["garden", "kneeler", "outdoor"] }
+  },
+  {
+    "name": "Compact Air Purifier (HEPA H13)",
+    "description": "Three-stage air purifier with a True HEPA H13 filter covering rooms up to 20 m². Auto mode adjusts fan speed based on air quality sensor. Ultra-quiet (22 dB).",
+    "metadata": { "category": "Home", "price": 89.99, "brand": "PureAir", "tags": ["air purifier", "HEPA", "home"] }
+  },
+  {
+    "name": "Reusable Silicone Food Storage Bags (Set of 6)",
+    "description": "Leakproof silicone zip bags in three sizes: 500 ml, 1 L, and 2 L. Freezer, microwave, and dishwasher safe. Replaces single-use plastic bags.",
+    "metadata": { "category": "Kitchen", "price": 22.99, "brand": "EcoSave", "tags": ["kitchen", "eco", "storage"] }
+  },
+  {
+    "name": "Trekking Poles (Collapsible, Carbon Fibre)",
+    "description": "Pair of lightweight carbon fibre trekking poles. Collapsible to 36 cm for packing. Anti-shock system with tungsten carbide tips and interchangeable baskets.",
+    "metadata": { "category": "Outdoor", "price": 99.99, "brand": "TrailHiker", "tags": ["hiking", "trekking", "poles"] }
+  },
+  {
+    "name": "Stainless Steel Spice Rack (12 Jars)",
+    "description": "Wall-mounted magnetic spice rack with 12 labelled stainless steel jars. Includes a sample label sheet and wall-mounting hardware.",
+    "metadata": { "category": "Kitchen", "price": 34.99, "brand": "GreenChef", "tags": ["kitchen", "spices", "organisation"] }
+  },
+  {
+    "name": "Under-Desk Cable Management Tray",
+    "description": "Clamp-on cable management tray that holds power strips and cables under your desk. No drilling required. Holds up to 5 kg.",
+    "metadata": { "category": "Office", "price": 19.99, "brand": "RiseDesk", "tags": ["office", "cable management", "desk"] }
+  },
+  {
+    "name": "Silicone Baking Mat (Set of 2)",
+    "description": "Non-stick silicone baking sheets, 40 × 30 cm. Replace parchment paper. Oven-safe to 260 °C. Measurements printed for accurate pastry work.",
+    "metadata": { "category": "Kitchen", "price": 16.99, "brand": "BakeEasy", "tags": ["baking", "kitchen", "silicone"] }
+  },
+  {
+    "name": "Posture Corrector Brace",
+    "description": "Adjustable upper-back brace that gently pulls shoulders into alignment. Breathable mesh fabric. Fits chest circumference 70–130 cm. Wear under clothing.",
+    "metadata": { "category": "Health", "price": 29.99, "brand": "SpineAlign", "tags": ["posture", "health", "back"] }
+  },
+  {
+    "name": "Mini Projector (1080p, Portable)",
+    "description": "Pocket-size 1080p projector with built-in speaker, HDMI and USB-C inputs, and 120-inch projection capability. 90-minute battery life on built-in power.",
+    "metadata": { "category": "Electronics", "price": 179.99, "brand": "LightCast", "tags": ["projector", "portable", "home cinema"] }
+  },
+  {
+    "name": "Plant-Based Protein Powder (Chocolate, 1 kg)",
+    "description": "Pea and brown rice protein blend with 25 g protein per serving. Chocolate flavour with no artificial sweeteners. Gluten-free and soy-free.",
+    "metadata": { "category": "Nutrition", "price": 44.99, "brand": "PureFuel", "tags": ["protein", "vegan", "nutrition"] }
+  },
+  {
+    "name": "Foldable Camping Chair",
+    "description": "Lightweight aluminium camping chair with 150 kg capacity. Folds to 45 × 15 cm and includes a carry bag. Breathable mesh seating with cup holder.",
+    "metadata": { "category": "Outdoor", "price": 39.99, "brand": "SkyRest", "tags": ["camping", "chair", "outdoor"] }
+  },
+  {
+    "name": "Digital Bathroom Scale (Smart, 180 kg)",
+    "description": "Smart scale measuring weight, body fat, BMI, muscle mass, and bone density. Syncs to a smartphone app via Bluetooth. Tempered glass platform.",
+    "metadata": { "category": "Health", "price": 39.99, "brand": "BodySync", "tags": ["scale", "health", "smart"] }
+  },
+  {
+    "name": "Stainless Steel Lunch Box (2-Tier)",
+    "description": "Two-compartment stainless steel bento box with a leak-proof silicone seal. Total capacity 1200 ml. Dishwasher safe. Includes a fork and spoon.",
+    "metadata": { "category": "Kitchen", "price": 27.99, "brand": "PrepBox", "tags": ["lunch box", "kitchen", "meal prep"] }
+  },
+  {
+    "name": "Rechargeable Headlamp (350 lm)",
+    "description": "USB-C rechargeable headlamp with three brightness modes and a red night-vision light. IPX4 water resistance. Single charge lasts up to 120 hours on low mode.",
+    "metadata": { "category": "Outdoor", "price": 34.99, "brand": "TrailHiker", "tags": ["headlamp", "camping", "outdoor"] }
+  },
+  {
+    "name": "Ergonomic Mouse Pad with Wrist Rest",
+    "description": "Memory foam wrist-support mouse pad with a non-slip rubber base. Smooth fabric top for precise tracking. 36 × 18 cm.",
+    "metadata": { "category": "Office", "price": 17.99, "brand": "ComfortSeat", "tags": ["mouse pad", "ergonomic", "office"] }
+  },
+  {
+    "name": "Electric Salt and Pepper Grinder Set",
+    "description": "Battery-operated ceramic grinder mechanism with adjustable coarseness. LED light illuminates the grind. Set of two matching mills.",
+    "metadata": { "category": "Kitchen", "price": 32.99, "brand": "GreenChef", "tags": ["kitchen", "grinder", "salt and pepper"] }
+  },
+  {
+    "name": "Foam Roller (Deep Tissue, 45 cm)",
+    "description": "High-density EVA foam roller with multi-dimensional surface for trigger-point release and myofascial massage. 45 × 14 cm.",
+    "metadata": { "category": "Fitness", "price": 22.99, "brand": "ZenFlow", "tags": ["foam roller", "recovery", "fitness"] }
+  },
+  {
+    "name": "Cable Knit Throw Blanket (130 × 150 cm)",
+    "description": "Chunky hand-knit cotton throw. Machine washable. 130 × 150 cm. Suitable for sofas, beds, or outdoor seating. Available in six neutral tones.",
+    "metadata": { "category": "Home", "price": 54.99, "brand": "NestHome", "tags": ["blanket", "home", "textiles"] }
+  },
+  {
+    "name": "Plant Watering Globe (Set of 4)",
+    "description": "Blown-glass self-watering globes that slowly release water to plant roots over 7–14 days. Ideal for holidays. Set of four in assorted colours.",
+    "metadata": { "category": "Garden", "price": 18.99, "brand": "GreenThumb", "tags": ["garden", "plants", "watering"] }
+  },
+  {
+    "name": "Portable Bluetooth Speaker (IPX7 Waterproof)",
+    "description": "360° waterproof Bluetooth 5.3 speaker with 20-hour playtime and a built-in carabiner clip. Floats on water. Pairs with a second unit for stereo sound.",
+    "metadata": { "category": "Electronics", "price": 59.99, "brand": "SoundWave", "tags": ["speaker", "bluetooth", "outdoor"] }
+  },
+  {
+    "name": "Zero-Gravity Recliner Chair",
+    "description": "Outdoor zero-gravity reclining chair with a padded headrest and cup holder. Steel frame, breathable textilene fabric. Rated for 150 kg.",
+    "metadata": { "category": "Garden", "price": 89.99, "brand": "SkyRest", "tags": ["garden", "recliner", "outdoor chair"] }
+  }
+]
