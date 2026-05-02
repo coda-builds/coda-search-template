@@ -431,3 +431,4 @@ coda-search-template/
 ## Licence
 
 MIT. Use freely in client projects.
+# coda-search-template
